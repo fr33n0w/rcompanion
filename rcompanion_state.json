@@ -1,0 +1,12 @@
+{
+  "weather_city": "Roma",
+  "bot_echo": true,
+  "bot_commands": true,
+  "bot_custom": {
+    "ciao": "Ciao, questo è rCompanion Bot, digita ? o help per info sui comandi!",
+    "hello": "hello, this is rCompanion Bot, for help, type: ? or help",
+    "link": "https://github.com/fr33n0w/rcompanion",
+    "ping": "PONG!",
+    "test": "test received from rCompanion"
+  }
+}
