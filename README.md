@@ -14,6 +14,12 @@ Tutto è configurabile da una WebUI servita direttamente dal dispositivo.
 
 Costruito su Lafvin ESP32-C6 , clone di waveshare esp32c6 (1.47" no touch), probabilmente usa gli stessi pin del Waveshare c6, facilmente adattabile per altri tipi di esp32.
 
+
+---
+<p align="center">
+  <img src="generated_screenshots/_mosaico.svg" width="1000" alt="Tutte le schermate rCompanion"/>
+</p>
+
 ---
 
 ## Indice
@@ -176,6 +182,40 @@ Le pagine si scorrono con il pulsante A. Ognuna ha un header colorato con il tit
 | 24 | **Invaders** | Space Invaders. |
 | 25 | **Breakout** | Rompimattoni con pallina. |
 | 26 | **Screensaver** | Animazioni che ruotano: robottino rimbalzante, logo RNS rotante, campo stellare, testo. |
+
+
+## Schermate
+
+<p align="center">
+  <img src="generated_screenshots/01_overview.svg" width="160" alt="Overview"/>
+  <img src="generated_screenshots/02_interfaces.svg" width="160" alt="Interfaces"/>
+  <img src="generated_screenshots/03_announces.svg" width="160" alt="Announces"/>
+  <img src="generated_screenshots/04_lxmf.svg" width="160" alt="LXMF"/>
+  <img src="generated_screenshots/05_identity.svg" width="160" alt="Identity"/>
+  <img src="generated_screenshots/06_rnsstatus.svg" width="160" alt="RNS Status"/>
+  <img src="generated_screenshots/07_traffic.svg" width="160" alt="Traffic"/>
+  <img src="generated_screenshots/08_peers.svg" width="160" alt="Peers"/>
+  <img src="generated_screenshots/09_events.svg" width="160" alt="Events"/>
+  <img src="generated_screenshots/10_rmap.svg" width="160" alt="RMAP"/>
+  <img src="generated_screenshots/11_clock.svg" width="160" alt="Clock"/>
+  <img src="generated_screenshots/12_settings.svg" width="160" alt="Settings"/>
+  <img src="generated_screenshots/13_echo.svg" width="160" alt="Echo"/>
+  <img src="generated_screenshots/14_meteo.svg" width="160" alt="Meteo"/>
+  <img src="generated_screenshots/15_risorse.svg" width="160" alt="Risorse C6"/>
+  <img src="generated_screenshots/16_server.svg" width="160" alt="Server PC"/>
+  <img src="generated_screenshots/17_about.svg" width="160" alt="About"/>
+  <img src="generated_screenshots/18_annstats.svg" width="160" alt="Ann Stats"/>
+  <img src="generated_screenshots/19_wifiscan.svg" width="160" alt="WiFi Scan"/>
+  <img src="generated_screenshots/20_btscan.svg" width="160" alt="BT Scan"/>
+  <img src="generated_screenshots/21_consumo.svg" width="160" alt="Consumo"/>
+  <img src="generated_screenshots/22_snake.svg" width="160" alt="Snake"/>
+  <img src="generated_screenshots/23_pong.svg" width="160" alt="Pong"/>
+  <img src="generated_screenshots/24_invaders.svg" width="160" alt="Invaders"/>
+  <img src="generated_screenshots/25_breakout.svg" width="160" alt="Breakout"/>
+  <img src="generated_screenshots/26_screensaver.svg" width="160" alt="Screensaver"/>
+</p>
+
+Nota: Gli screenshot sono generati in svg e potrebbero differire leggermente dalle schermate reali sul dispositivo, anche in base ad eventuali futuri aggiornamenti.  
 
 ---
 
