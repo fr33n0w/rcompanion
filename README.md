@@ -299,8 +299,9 @@ Tutti e 4 i giochi si controllano con **un solo pulsante** (A):
 ---
 
 ## Licenza
-
-Progetto personale. Sentiti libero di adattarlo al tuo hardware e alla tua rete Reticulum.
+   
+   Questo progetto è rilasciato sotto licenza [CC BY-NC 4.0](LICENSE):
+   libero uso, modifica e condivisione con attribuzione, **uso commerciale vietato**.
 
 ## Crediti
 
