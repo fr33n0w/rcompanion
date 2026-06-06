@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#4a4100"/>
+<text x="59" y="13" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Events</text>
+<text x="51" y="30" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 9/26 -</text>
+<text x="0" y="52" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&gt;</text>
+<text x="12" y="52" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mark Q.</text>
+<text x="124" y="52" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">12:40</text>
+<text x="0" y="69" fill="#ffff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M</text>
+<text x="12" y="69" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Salerno</text>
+<text x="124" y="69" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">12:38</text>
+<text x="0" y="86" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&gt;</text>
+<text x="12" y="86" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rmap.world</text>
+<text x="124" y="86" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">12:38</text>
+<text x="0" y="103" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&gt;</text>
+<text x="12" y="103" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IT-Mesh</text>
+<text x="124" y="103" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">12:31</text>
+<text x="0" y="120" fill="#ffff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M</text>
+<text x="12" y="120" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">anon</text>
+<text x="124" y="120" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">12:20</text>
+<text x="0" y="137" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&gt;</text>
+<text x="12" y="137" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">nomad-bbs</text>
+<text x="124" y="137" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">12:05</text>
+<text x="0" y="154" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&gt;</text>
+<text x="12" y="154" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">relay</text>
+<text x="124" y="154" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">11:58</text>
+<text x="0" y="171" fill="#ffff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M</text>
+<text x="12" y="171" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mark Q.</text>
+<text x="124" y="171" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">11:40</text>
+</svg>

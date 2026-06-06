@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#ffa600"/>
+<text x="43" y="13" fill="#000000" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Risorse C6</text>
+<text x="47" y="30" fill="#000000" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 15/26 -</text>
+<text x="0" y="52" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RAM ~</text>
+<text x="124" y="52" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">256KB</text>
+<text x="0" y="70" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Usata</text>
+<text x="132" y="70" fill="#ffa600" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">98KB</text>
+<text x="0" y="88" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Libe~</text>
+<text x="124" y="88" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">158KB</text>
+<rect x="0" y="95" width="166" height="8" fill="#212021"/>
+<rect x="0" y="95" width="63" height="8" fill="#00ff00"/>
+<text x="43" y="119" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">38% in uso</text>
+<rect x="0" y="127" width="166" height="1" fill="#212021"/>
+<text x="0" y="143" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Flash</text>
+<text x="116" y="143" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2048KB</text>
+<text x="0" y="160" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">FS f~</text>
+<text x="116" y="160" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1320KB</text>
+<rect x="0" y="167" width="166" height="1" fill="#212021"/>
+<text x="0" y="183" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">MCU ~</text>
+<text x="140" y="183" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">41C</text>
+<text x="0" y="200" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CPU</text>
+<text x="116" y="200" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">160MHz</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#0000ff"/>
+<text x="63" y="13" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Clock</text>
+<text x="47" y="30" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 11/26 -</text>
+<rect x="24" y="104" width="4" height="11" fill="#00ffff"/>
+<rect x="24" y="119" width="4" height="11" fill="#00ffff"/>
+<rect x="35" y="100" width="10" height="4" fill="#00ffff"/>
+<rect x="45" y="104" width="4" height="11" fill="#00ffff"/>
+<rect x="35" y="115" width="10" height="4" fill="#00ffff"/>
+<rect x="31" y="119" width="4" height="11" fill="#00ffff"/>
+<rect x="35" y="130" width="10" height="4" fill="#00ffff"/>
+<rect x="52" y="111" width="4" height="4" fill="#00ffff"/>
+<rect x="52" y="122" width="4" height="4" fill="#00ffff"/>
+<rect x="63" y="104" width="4" height="11" fill="#00ffff"/>
+<rect x="77" y="104" width="4" height="11" fill="#00ffff"/>
+<rect x="67" y="115" width="10" height="4" fill="#00ffff"/>
+<rect x="77" y="119" width="4" height="11" fill="#00ffff"/>
+<rect x="88" y="100" width="10" height="4" fill="#00ffff"/>
+<rect x="84" y="104" width="4" height="11" fill="#00ffff"/>
+<rect x="88" y="115" width="10" height="4" fill="#00ffff"/>
+<rect x="98" y="119" width="4" height="11" fill="#00ffff"/>
+<rect x="88" y="130" width="10" height="4" fill="#00ffff"/>
+<rect x="105" y="111" width="4" height="4" fill="#00ffff"/>
+<rect x="105" y="122" width="4" height="4" fill="#00ffff"/>
+<rect x="120" y="100" width="10" height="4" fill="#00ffff"/>
+<rect x="130" y="104" width="4" height="11" fill="#00ffff"/>
+<rect x="120" y="115" width="10" height="4" fill="#00ffff"/>
+<rect x="130" y="119" width="4" height="11" fill="#00ffff"/>
+<rect x="120" y="130" width="10" height="4" fill="#00ffff"/>
+<rect x="141" y="100" width="10" height="4" fill="#00ffff"/>
+<rect x="137" y="104" width="4" height="11" fill="#00ffff"/>
+<rect x="151" y="104" width="4" height="11" fill="#00ffff"/>
+<rect x="137" y="119" width="4" height="11" fill="#00ffff"/>
+<rect x="151" y="119" width="4" height="11" fill="#00ffff"/>
+<rect x="141" y="130" width="10" height="4" fill="#00ffff"/>
+<text x="43" y="162" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">06/06/2026</text>
+<rect x="0" y="186" width="166" height="1" fill="#212021"/>
+<text x="59" y="208" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Uptime</text>
+<text x="51" y="226" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3d 04:12</text>
+<text x="43" y="254" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rCompanion</text>
+</svg>

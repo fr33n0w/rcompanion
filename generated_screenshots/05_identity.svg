@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#7b00ff"/>
+<text x="51" y="13" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Identity</text>
+<text x="51" y="30" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 5/26 -</text>
+<text x="43" y="54" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rCompanion</text>
+<text x="0" y="76" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">LXMF hash:</text>
+<text x="0" y="94" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">a1b2c3d4e5f6</text>
+<text x="0" y="110" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">7890abcdef12</text>
+<rect x="0" y="120" width="166" height="1" fill="#212021"/>
+<text x="0" y="138" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stato</text>
+<text x="116" y="138" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">online</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#ff00ff"/>
+<text x="47" y="13" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Server PC</text>
+<text x="47" y="30" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 16/26 -</text>
+<text x="0" y="52" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CPU ~</text>
+<text x="140" y="52" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">23%</text>
+<rect x="0" y="56" width="166" height="8" fill="#212021"/>
+<rect x="0" y="56" width="38" height="8" fill="#00ff00"/>
+<text x="0" y="80" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RAM</text>
+<text x="108" y="80" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">9.1/16G</text>
+<rect x="0" y="84" width="166" height="8" fill="#212021"/>
+<rect x="0" y="84" width="94" height="8" fill="#ffff00"/>
+<text x="0" y="108" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Disco</text>
+<text x="100" y="108" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">210/512G</text>
+<rect x="0" y="112" width="166" height="8" fill="#212021"/>
+<rect x="0" y="112" width="68" height="8" fill="#00ff00"/>
+<rect x="0" y="126" width="166" height="1" fill="#212021"/>
+<text x="0" y="142" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CPU ~</text>
+<text x="140" y="142" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">52C</text>
+<text x="0" y="159" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CPU ~</text>
+<text x="108" y="159" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3200MHz</text>
+<text x="7" y="316" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="152" lengthAdjust="spacingAndGlyphs" xml:space="preserve">server 192.168.1.16</text>
+</svg>

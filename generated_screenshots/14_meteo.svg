@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#5aa2ff"/>
+<text x="63" y="13" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Meteo</text>
+<text x="47" y="30" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 14/26 -</text>
+<text x="55" y="50" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Salerno</text>
+<text x="59" y="68" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Sereno</text>
+<text x="63" y="88" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">22.4C</text>
+<text x="47" y="106" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">perc. 23C</text>
+<line x1="53" y1="150" x2="49" y2="150" stroke="#848284" stroke-width="1"/>
+<line x1="58" y1="132" x2="55" y2="130" stroke="#848284" stroke-width="1"/>
+<line x1="73" y1="121" x2="72" y2="117" stroke="#848284" stroke-width="1"/>
+<line x1="92" y1="121" x2="93" y2="117" stroke="#848284" stroke-width="1"/>
+<line x1="107" y1="132" x2="110" y2="130" stroke="#848284" stroke-width="1"/>
+<line x1="113" y1="150" x2="117" y2="150" stroke="#848284" stroke-width="1"/>
+<line x1="83" y1="150" x2="89" y2="124" stroke="#00ffff" stroke-width="1"/>
+<rect x="81" y="148" width="4" height="4" fill="#ffffff"/>
+<text x="51" y="204" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1018 hPa</text>
+<text x="0" y="223" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Umid~</text>
+<text x="140" y="223" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">61%</text>
+<text x="0" y="240" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Vento</text>
+<text x="124" y="240" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">8km/h</text>
+<text x="0" y="316" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="152" lengthAdjust="spacingAndGlyphs" xml:space="preserve">cambia citta: WebUI</text>
+</svg>

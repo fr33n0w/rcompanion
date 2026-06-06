@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#ffff00"/>
+<text x="35" y="13" fill="#000000" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">LXMF (2 new)</text>
+<text x="51" y="30" fill="#000000" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 4/26 -</text>
+<text x="0" y="52" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mark Q.</text>
+<text x="6" y="68" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="144" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Ciao dal backbone!</text>
+<text x="0" y="87" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Salerno Node</text>
+<text x="6" y="103" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="136" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Test propagazione</text>
+<text x="0" y="122" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IT-Mesh</text>
+<text x="6" y="138" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="112" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Meeting ore 21</text>
+<text x="0" y="157" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">anon</text>
+<text x="6" y="173" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ping</text>
+</svg>

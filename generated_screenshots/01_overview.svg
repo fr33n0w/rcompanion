@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#00ffff"/>
+<text x="43" y="13" fill="#000000" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rCompanion</text>
+<text x="51" y="30" fill="#000000" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 1/26 -</text>
+<rect x="0" y="43" width="10" height="10" fill="#00ff00"/>
+<text x="14" y="52" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RNS</text>
+<text x="148" y="52" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OK</text>
+<rect x="0" y="62" width="10" height="10" fill="#00ff00"/>
+<text x="14" y="71" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">LXMF</text>
+<text x="148" y="71" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OK</text>
+<rect x="0" y="81" width="10" height="10" fill="#00ff00"/>
+<text x="14" y="90" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">SRV</text>
+<text x="148" y="90" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OK</text>
+<rect x="0" y="100" width="10" height="10" fill="#00ff00"/>
+<text x="14" y="109" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">WEB</text>
+<text x="148" y="109" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OK</text>
+<rect x="0" y="118" width="166" height="1" fill="#212021"/>
+<text x="0" y="135" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RX</text>
+<text x="108" y="135" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">139.6KB</text>
+<text x="0" y="153" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TX</text>
+<text x="116" y="153" fill="#00ffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="48" lengthAdjust="spacingAndGlyphs" xml:space="preserve">88.2KB</text>
+<text x="0" y="171" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Annu.</text>
+<text x="132" y="171" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="32" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1240</text>
+<text x="0" y="189" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="24" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Msg</text>
+<text x="148" y="189" fill="#ffff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="16" lengthAdjust="spacingAndGlyphs" xml:space="preserve">17</text>
+<rect x="0" y="197" width="166" height="1" fill="#212021"/>
+<text x="0" y="214" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Traffico</text>
+<rect x="0" y="239" width="6" height="7" fill="#007d7b"/>
+<rect x="7" y="236" width="6" height="10" fill="#00ffff"/>
+<rect x="14" y="233" width="6" height="13" fill="#007d7b"/>
+<rect x="21" y="230" width="6" height="16" fill="#00ffff"/>
+<rect x="28" y="227" width="6" height="19" fill="#007d7b"/>
+<rect x="35" y="224" width="6" height="22" fill="#00ffff"/>
+<rect x="42" y="221" width="6" height="25" fill="#007d7b"/>
+<rect x="49" y="244" width="6" height="2" fill="#00ffff"/>
+<rect x="56" y="241" width="6" height="5" fill="#007d7b"/>
+<rect x="63" y="238" width="6" height="8" fill="#00ffff"/>
+<rect x="70" y="235" width="6" height="11" fill="#007d7b"/>
+<rect x="77" y="232" width="6" height="14" fill="#00ffff"/>
+<rect x="84" y="229" width="6" height="17" fill="#007d7b"/>
+<rect x="91" y="226" width="6" height="20" fill="#00ffff"/>
+<rect x="98" y="223" width="6" height="23" fill="#007d7b"/>
+<rect x="105" y="220" width="6" height="26" fill="#00ffff"/>
+<rect x="112" y="243" width="6" height="3" fill="#007d7b"/>
+<rect x="119" y="240" width="6" height="6" fill="#00ffff"/>
+<rect x="0" y="252" width="166" height="1" fill="#212021"/>
+<text x="0" y="269" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">up 3d 04:12</text>
+<text x="0" y="287" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="128" lengthAdjust="spacingAndGlyphs" xml:space="preserve">C6: 192.168.1.13</text>
+<text x="0" y="305" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="112" lengthAdjust="spacingAndGlyphs" xml:space="preserve">WebUI port: 80</text>
+<text x="0" y="323" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="128" lengthAdjust="spacingAndGlyphs" xml:space="preserve">SRV:192.168.1.16</text>
+</svg>

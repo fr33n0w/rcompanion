@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#007d7b"/>
+<text x="43" y="13" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Interfaces</text>
+<text x="51" y="30" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 2/26 -</text>
+<rect x="0" y="43" width="8" height="8" fill="#00ff00"/>
+<text x="12" y="52" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="104" lengthAdjust="spacingAndGlyphs" xml:space="preserve">AutoInterface</text>
+<text x="12" y="68" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="136" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RX 45.2K TX 31.0K</text>
+<rect x="0" y="79" width="8" height="8" fill="#00ff00"/>
+<text x="12" y="88" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="120" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TCPClient bbone</text>
+<text x="12" y="104" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="136" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RX 88.1K TX 60.4K</text>
+<rect x="0" y="115" width="8" height="8" fill="#00ff00"/>
+<text x="12" y="124" fill="#00ff00" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="112" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RNodeInterface</text>
+<text x="12" y="140" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="128" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RX 12.7K TX 9.3K</text>
+<rect x="0" y="151" width="8" height="8" fill="#ff0000"/>
+<text x="12" y="160" fill="#ff0000" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="64" lengthAdjust="spacingAndGlyphs" xml:space="preserve">I2P node</text>
+<text x="12" y="176" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RX 0 TX 0</text>
+</svg>

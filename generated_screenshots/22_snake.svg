@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#00ff00"/>
+<text x="63" y="13" fill="#000000" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Snake</text>
+<text x="47" y="30" fill="#000000" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 22/26 -</text>
+<rect x="66" y="88" width="7" height="7" fill="#00ff00"/>
+<rect x="66" y="96" width="7" height="7" fill="#00ff00"/>
+<rect x="66" y="104" width="7" height="7" fill="#00ff00"/>
+<rect x="74" y="104" width="7" height="7" fill="#00ff00"/>
+<rect x="82" y="104" width="7" height="7" fill="#00ff00"/>
+<rect x="90" y="104" width="7" height="7" fill="#00ff00"/>
+<rect x="90" y="112" width="7" height="7" fill="#00ff00"/>
+<rect x="90" y="120" width="7" height="7" fill="#00ff00"/>
+<rect x="42" y="152" width="7" height="7" fill="#ff0000"/>
+<text x="7" y="314" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="152" lengthAdjust="spacingAndGlyphs" xml:space="preserve">A=gira A(1.5s)=esci</text>
+</svg>

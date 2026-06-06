@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="640" viewBox="0 0 166 320" style="background:#000;border-radius:10px">
+<rect x="0" y="0" width="166" height="320" rx="4" fill="#000"/>
+<rect x="0" y="0" width="166" height="320" fill="#000000"/>
+<rect x="0" y="0" width="166" height="34" fill="#7b00ff"/>
+<text x="39" y="13" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="88" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Screensaver</text>
+<text x="47" y="30" fill="#ffffff" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- 26/26 -</text>
+<line x1="83" y1="170" x2="104" y2="176" stroke="#848284" stroke-width="1"/>
+<rect x="101" y="173" width="6" height="6" fill="#00ff00"/>
+<line x1="83" y1="170" x2="87" y2="191" stroke="#848284" stroke-width="1"/>
+<rect x="84" y="188" width="6" height="6" fill="#00ff00"/>
+<line x1="83" y1="170" x2="66" y2="184" stroke="#848284" stroke-width="1"/>
+<rect x="63" y="181" width="6" height="6" fill="#00ff00"/>
+<line x1="83" y1="170" x2="61" y2="163" stroke="#848284" stroke-width="1"/>
+<rect x="58" y="160" width="6" height="6" fill="#00ff00"/>
+<line x1="83" y1="170" x2="78" y2="148" stroke="#848284" stroke-width="1"/>
+<rect x="75" y="145" width="6" height="6" fill="#00ff00"/>
+<line x1="83" y1="170" x2="99" y2="155" stroke="#848284" stroke-width="1"/>
+<rect x="96" y="152" width="6" height="6" fill="#00ff00"/>
+<rect x="79" y="166" width="8" height="8" fill="#00ffff"/>
+<text x="47" y="312" fill="#848284" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="0" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Reticulum</text>
+</svg>
