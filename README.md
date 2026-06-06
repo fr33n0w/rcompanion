@@ -1,10 +1,9 @@
-# rcompanion
-Reticulum LXMF Client Display Companion for Lafvin ESP32-C6
-
 ------
 
 
 # rCompanion
+
+Reticulum LXMF Client Display Companion for Lafvin ESP32-C6
 
 **Un display companion per il tuo nodo Reticulum.**
 
