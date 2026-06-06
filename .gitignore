@@ -1,0 +1,33 @@
+# ── Configurazioni locali con dati sensibili (NON caricare) ──
+config.json                 # WiFi + password reali del C6
+rcompanion_state.json       # stato runtime del server (città, bot, ecc.)
+# NB: rcompanion_state.example.json invece VA incluso (è il file di esempio)
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ── Reticulum (eventuali storage locali) ──
+.reticulum/
+storage/
+
+# ── Editor / IDE ──
+.vscode/
+.idea/
+*.swp
+*~
+
+# ── Sistema operativo ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Build / temporanei generatori ──
+screens_png/
+*.tmp
